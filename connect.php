@@ -6,8 +6,8 @@ $conn = mysqli_connect(
     "easyfiletransfer"
 );
 if ($conn) {
-    // echo "success";
+     echo "success";
 }else {
-    // "failed";
+    echo "failed";
 }
 ?>
